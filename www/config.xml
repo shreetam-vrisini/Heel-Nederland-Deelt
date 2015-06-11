@@ -97,5 +97,5 @@
     <access origin="http://floowtwo.com" />
     <access origin="http://ssl.google-analytics.com" />
     <access origin="http://i.vimeocdn.com" />
-    <access origin="http://f.vimeocdn.com" />
+    <access origin="http://vimeocdn.com" subdomain="true"/>
 </widget>
